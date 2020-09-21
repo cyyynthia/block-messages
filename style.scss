@@ -1,0 +1,15 @@
+.block-message-button {
+	display: grid;
+	justify-items: center;
+	align-content: center;
+}
+
+.block-message-button .fas {
+	display: grid;
+	justify-items: center;
+	align-content: flex-end;
+}
+
+.block-message-button .fas::before {
+	vertical-align: middle;
+}
