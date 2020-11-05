@@ -1,8 +1,7 @@
 {
 	"name": "Block Messages",
 	"description": "Allows you to block single messages. Waiting for the staff to delete that hardcore furry scat porn? Quickly block it.",
-	"author": "Куzа#1794",
-	"version": "1.0.0",
-	"license": "MIT",
-	"dependencies": ["0klibrary"]
+	"author": "Куzа#1794; Bowser65#0001",
+	"version": "1.0.0-fork1",
+	"license": "MIT; OSL-3.0"
 }
